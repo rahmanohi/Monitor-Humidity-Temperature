@@ -1,2 +1,3 @@
 # Monitor-Humidity-Temperature
-abcd
+This project will monitor humidity, temperature & gas.
+And will show the graph in a third party website.
